@@ -1,2 +1,2 @@
 # cursomcsd-pelis
-Aplicación prueba apara curso MCSD
+Aplicación prueba para curso MCSD
