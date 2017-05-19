@@ -61,7 +61,7 @@
 
     $('.fa-arrow-circle-left').click(function () {
         var paginaActual = parseInt($('#pagina-actual').html());
-        if (paginaActual === 1) {
+        if (paginaActual === 2) {
             $('#flecha-izda').addClass('oculto');
         }
         else {
