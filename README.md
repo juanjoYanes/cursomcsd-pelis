@@ -1,8 +1,4 @@
 # cursomcsd-pelis
-Aplicación prueba para curso MCSD
+Test1 
 
-### Javascript
-
-### JQuery
-
-### CSS3
+### HTML5 CSS3 Javascript JQuery Ajax
